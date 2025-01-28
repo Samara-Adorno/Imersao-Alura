@@ -1,4 +1,5 @@
 SAMARA ADORNO
+
 Técnica em Desenvolvimento de Sistemas | Aluna do curso de Análise e Desenvolvimento de Sistemas na Universidade de Marília
 
 # Spotify Clone - Imersão Front-end Alura
