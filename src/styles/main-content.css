@@ -3,7 +3,7 @@
     max-width: 80vw;
     height: 100vh;
     margin-left: 320px;
-    margin-right: 56px;
+    margin-right: 16px;
 }
 
 .header__navigation {
@@ -142,11 +142,11 @@
     overflow-y: auto;
 }
 
-.offer__scroll-container::-webkit-scrollbar {
+.offer_scroll-container::-webkit-scrollbar {
     width: 1px;
 }
 
-.offer__scroll-container::-webkit-scrollbar-thumb {
+.offer_scroll-container::-webkit-scrollbar-thumb {
     background-color: transparent;
 }
 /* FIM SCROLL */
@@ -154,7 +154,7 @@
 .offer_list-item {
     display: grid;
     justify-items: center;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns:  1fr 1fr 1fr 1fr 1fr;
     grid-gap: 16px;
     gap: 16px;
     margin-bottom: 16px;
