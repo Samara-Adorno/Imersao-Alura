@@ -25,6 +25,11 @@
     --card13: rgb(186, 93, 7);
     --card14: rgb(0, 30, 80);
     --card15: rgb(60, 30, 80);
+    --card16: rgb(255, 165, 0); 
+    --card17: rgb(75, 0, 130); 
+    --card18: rgb(255, 20, 147); 
+    --card19: rgb(0, 191, 255); 
+    --card20: rgb(255, 105, 180);
   
     /* Fonts */
     --font-dm-sans: "DM Sans", sans-serif;
