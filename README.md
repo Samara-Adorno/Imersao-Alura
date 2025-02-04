@@ -11,6 +11,7 @@ Este projeto é um clone da interface do Spotify, desenvolvido durante a Imersã
 - HTML
 - CSS
 - JavaScript
+- JSON Server (para simular uma API)
 
 ## Funcionalidades
 
@@ -18,3 +19,5 @@ Este projeto é um clone da interface do Spotify, desenvolvido durante a Imersã
 - Estilização responsiva
 - Uso de ícones com Font Awesome
 - Estrutura básica de uma aplicação web
+- Busca de artistas através de um campo de entrada
+- Exibição de cards com informações das playlist
